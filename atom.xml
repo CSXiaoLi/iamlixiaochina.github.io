@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://iamlixiaochina.github.io/"/>
-  <updated>2017-03-20T11:12:23.468Z</updated>
+  <updated>2017-04-24T05:08:41.060Z</updated>
   <id>http://iamlixiaochina.github.io/</id>
   
   <author>
@@ -14,6 +14,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>first daily</title>
+    <link href="http://iamlixiaochina.github.io/2017/04/24/first-daily/"/>
+    <id>http://iamlixiaochina.github.io/2017/04/24/first-daily/</id>
+    <published>2017-04-24T05:07:57.000Z</published>
+    <updated>2017-04-24T05:08:41.060Z</updated>
+    
+    <content type="html"><![CDATA[<p>09:00 getup<br>09:30-11:30 跑程序 发现2个同时跑 速度变为2/3<br>11:30-12:00 吃饭<br>12:00-13:00<br>13:00-13:30 休息<br>13:30-1 </p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;09:00 getup&lt;br&gt;09:30-11:30 跑程序 发现2个同时跑 速度变为2/3&lt;br&gt;11:30-12:00 吃饭&lt;br&gt;12:00-13:00&lt;br&gt;13:00-13:30 休息&lt;br&gt;13:30-1 &lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title></title>
