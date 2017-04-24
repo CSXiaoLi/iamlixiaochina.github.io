@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://iamlixiaochina.github.io/"/>
-  <updated>2017-04-24T05:30:44.796Z</updated>
+  <updated>2017-04-24T05:33:19.693Z</updated>
   <id>http://iamlixiaochina.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://iamlixiaochina.github.io/2017/04/24/first-daily/"/>
     <id>http://iamlixiaochina.github.io/2017/04/24/first-daily/</id>
     <published>2017-04-24T05:07:57.000Z</published>
-    <updated>2017-04-24T05:30:44.796Z</updated>
+    <updated>2017-04-24T05:33:19.693Z</updated>
     
     <content type="html"><![CDATA[<p>09:00 getup<br>09:30-11:30 跑程序 发现2个同时跑 速度变为2/3 为了观察不同lr对效果的影响 </p>
 <table>
@@ -35,14 +35,17 @@
 <tr>
 <td>1e-4</td>
 <td style="text-align:center">finished</td>
+<td style="text-align:right">0.015</td>
 </tr>
 <tr>
 <td>5e-5</td>
 <td style="text-align:center">runing</td>
+<td style="text-align:right">0</td>
 </tr>
 <tr>
 <td>1e-5</td>
 <td style="text-align:center">runing</td>
+<td style="text-align:right">0</td>
 </tr>
 </tbody>
 </table>
